@@ -125,7 +125,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header.header-scrolled, #header.header-inner-pages {
-  background: rgba(24, 6, 185, 0.8);
+  background: rgba(12, 12, 14, 0.8);
   padding: 12px 0;
 }
 
@@ -408,7 +408,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: linear-gradient(45deg, rgba(86, 58, 250, 0.9) 0%, rgba(116, 15, 214, 0.9) 100%), url("../img/hero-bg.jpg") center center no-repeat;
+  background:  url("../img/hero-bg.jpg") center center no-repeat;
   background-size: cover;
 }
 
@@ -605,12 +605,12 @@ section {
   border-radius: 5px;
   transition: 0.5s;
   color: #fff;
-  background: linear-gradient(45deg, #5846f9 0%, #7b27d8 100%);
+  background: linear-gradient(45deg, #161518 0%, #7b27d8 100%);
   position: relative;
 }
 
 .about .content .read-more:hover {
-  background: linear-gradient(180deg, #5846f9 0%, #7b27d8 100%);
+  background: linear-gradient(180deg, #121116 0%, #0e031a 100%);
 }
 
 .about .content .read-more i {
@@ -624,7 +624,7 @@ section {
 # Counts
 --------------------------------------------------------------*/
 .counts {
-  background: linear-gradient(90deg, rgba(88, 70, 249, 0.5) 0%, rgba(123, 39, 216, 0.5) 100%), url("../img/counts-bg.png") center center no-repeat;
+  background:  url("../img/counts-bg.png") center center no-repeat;
   padding: 80px 0 60px 0;
 }
 
@@ -1467,7 +1467,7 @@ section {
 #footer {
   color: #fff;
   font-size: 14px;
-  background: linear-gradient(45deg, rgba(86, 58, 250, 0.9) 0%, rgba(116, 15, 214, 0.9) 100%), url("../img/hero-bg.jpg") center center no-repeat;
+  background:  url("../img/hero-bg.jpg") center center no-repeat;
   background-size: cover;
 }
 
